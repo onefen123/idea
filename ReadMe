@@ -1,4 +1,4 @@
-    快捷键
+快捷键
     1.ctrl+x--剪切行
     2.alt+enter--快速导包
     3.shift+F6--快速该名
@@ -10,11 +10,12 @@
     9.Ctrl+I--实现方法
     10.Ctrl+0--重写方法
 
-
-
-    脱离svn版本控制
+脱离svn版本控制
     1.删除svn目录
     2.修改.idea目录的vcs.xml的<component></component>删除
 
+提交
+1.提交到本地:右键项目--> git -> repository -> add -> commit ...
+2.提交到gitub:右键项目--> git -> repository ->(输入url和项目名称)push ->
 
 
